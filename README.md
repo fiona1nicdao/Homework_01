@@ -1,6 +1,5 @@
-# Homework_01
-
 # Horiseon Webpage Refector 
+# Week 1 HTML
 
 ## Goal
 The goal is to refactor the Horiseon webpage to make it more accesible for people with disabilities. 
