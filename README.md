@@ -11,6 +11,7 @@ The goal is to refactor the Horiseon webpage to make it more accesible for peopl
 - have heading attributes that are in sequential order 
 - have a title element 
 
+## Link
 link to [improved webpage](https://fiona1nicdao.github.io/Horiseon/)
 
 
